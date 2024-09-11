@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+div {
+background-color: blue;
+font-size: 50px;
+text-shadow: 1px 1px 3px;
+text-align: center;
+}
+
+input[type=text] {
+    width: 300px;
+    text-align: center;
+}
+div.x0 {
+    background-color: aqua;
+}
+dix.x1 {
+    background-color: antiquewhite;
+}
